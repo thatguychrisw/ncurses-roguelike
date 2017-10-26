@@ -1,2 +1,2 @@
-# php-ncurses-roguelike
-A roguelike made with php and ncurses
+ncurses-roguelike
+A roguelike made with Python and ncurses
